@@ -1,6 +1,6 @@
 import React,{useState,Fragment}from 'react';
 
-const Contador2= ()=> {
+const C03compConCss= ()=> {
     const[valor, setValor]= useState(0);
     const[numero, setNumero]= useState(0);
 }
