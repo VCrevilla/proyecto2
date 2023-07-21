@@ -14,7 +14,7 @@ function App() {
       <C02contador></C02contador>
 
       <h3>Componente 3</h3>
-      <C03compConCss></C03compConCss>
+      <C03contador></C03contador>
     </div>
   );
 }
