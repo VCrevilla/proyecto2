@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import C01componente from './component/C01componente';
 import C02contador from './component/C02contador';
-import C03compConCss from './component/C03compConCss';
+import C03contador from './component/C03contador';
 
 function App() {
   return (
@@ -15,6 +15,8 @@ function App() {
 
       <h3>Componente 3</h3>
       <C03contador></C03contador>
+
+
     </div>
   );
 }
